@@ -41,7 +41,7 @@ var gen_header = function()
     {
         header.push(key);
     });
-    header.push('other');
+    header.push('Other');
     console.log(header.join(','));
 }
 
